@@ -9775,7 +9775,7 @@ Redis:del(TheTepthon..'Tepthon:Texting:DevTheTepthon')
 return LuaTele.sendText(msg_chat_id,msg_id,'⌔︙ تم حذف كليشه المطور')
 end
 if text == 'مبرمج سورس' or text == 'مبرمج السورس' or text == 'المبرمج' then  
-local UserId_Info = LuaTele.searchPublicChat("PPPPPE")
+local UserId_Info = LuaTele.searchPublicChat("P17_12")
 if UserId_Info.id then
 local UserInfo = LuaTele.getUser(UserId_Info.id)
 local InfoUser = LuaTele.getUserFullInfo(UserId_Info.id)
